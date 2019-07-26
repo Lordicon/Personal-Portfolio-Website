@@ -4,7 +4,7 @@
 
 # JoshuaNightingale.com Website
 
-> This is the website for joshuanightingale.com, We take all suggestions and put them to use in order to perfect this website for the best possible outcome for it's sole purpose.
+> This is the website for <a href="https://joshuanightingale.com" target="_blank">`joshuanightingale.com`</a>, We take all suggestions and put them to use in order to perfect this website for the best possible outcome for it's sole purpose.
 
 
 **All information welcome**
